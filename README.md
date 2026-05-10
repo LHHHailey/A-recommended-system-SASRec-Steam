@@ -1,6 +1,6 @@
 # SASRec for Steam Recommendation
 A PyTorch implementation of **SASRec (Sequential Recommendation)** on the Steam dataset.
-
+![sasrec_interface](sasrec_interface.png)
 ---
 
 ## 📝 Notebook Execution Order
